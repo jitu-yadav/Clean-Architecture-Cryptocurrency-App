@@ -1,4 +1,4 @@
-package com.stupid.cryptocurrencyapp.ui.theme
+package com.stupid.cryptocurrencyapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
